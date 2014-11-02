@@ -1,0 +1,626 @@
+>>1414903657.88	CAP LS
+>>1414903657.88	NICK twitchplayspumpkinbots
+>>1414903657.88	USER willie +iw twitchplayspumpkinbots :Willie Embosbot, http://willie.dftba.net
+<<1414903657.96	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414903658.04	:tmi.twitch.tv NOTICE * :Login unsuccessful
+>>1414903667.8	QUIT :KeyboardInterrupt
+>>1414903917.38	CAP LS
+>>1414903917.38	PASS oauth:fmg3v2nxg2za62ez308kzp8xrygx34z
+>>1414903917.38	NICK twitchplayspumpkinbots
+>>1414903917.38	USER willie +iw twitchplayspumpkinbots :Willie Embosbot, http://willie.dftba.net
+<<1414903917.48	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414903917.57	:tmi.twitch.tv 001 twitchplayspumpkinbots :Welcome, GLHF!
+>>1414903917.57	MODE  twitchplayspumpkinbots +B
+>>1414903917.57	JOIN twitchplayspumpkinbots
+<<1414903917.59	:tmi.twitch.tv 002 twitchplayspumpkinbots :Your host is tmi.twitch.tv
+<<1414903917.59	:tmi.twitch.tv 003 twitchplayspumpkinbots :This server is rather new
+<<1414903917.59	:tmi.twitch.tv 004 twitchplayspumpkinbots :-
+<<1414903917.59	:tmi.twitch.tv 375 twitchplayspumpkinbots :-
+<<1414903917.59	:tmi.twitch.tv 372 twitchplayspumpkinbots :You are in a maze of twisty passages, all alike.
+<<1414903917.59	:tmi.twitch.tv 376 twitchplayspumpkinbots :>
+<<1414903917.83	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN twitchplayspumpkinbots
+<<1414903917.83	:twitchplayspumpkinbots.tmi.twitch.tv 353 twitchplayspumpkinbots = twitchplayspumpkinbots :twitchplayspumpkinbots
+<<1414903917.84	:twitchplayspumpkinbots.tmi.twitch.tv 366 twitchplayspumpkinbots twitchplayspumpkinbots :End of /NAMES list
+<<1414903917.84	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG twitchplayspumpkinbots :USERCOLOR twitchplayspumpkinbots #008000
+<<1414903917.84	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG twitchplayspumpkinbots :HISTORYEND twitchplayspumpkinbots
+>>1414904037.39	PING irc.twitch.tv
+<<1414904037.48	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414904061.48	QUIT :KeyboardInterrupt
+>>1414904067.65	CAP LS
+>>1414904067.65	PASS oauth:fmg3v2nxg2za62ez308kzp8xrygx34z
+>>1414904067.65	NICK twitchplayspumpkinbots
+>>1414904067.65	USER willie +iw twitchplayspumpkinbots :Willie Embosbot, http://willie.dftba.net
+<<1414904067.74	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414904067.83	:tmi.twitch.tv 001 twitchplayspumpkinbots :Welcome, GLHF!
+>>1414904067.83	MODE  twitchplayspumpkinbots +B
+>>1414904067.83	JOIN twitchplayspumpkinbots
+<<1414904067.85	:tmi.twitch.tv 002 twitchplayspumpkinbots :Your host is tmi.twitch.tv
+<<1414904067.85	:tmi.twitch.tv 003 twitchplayspumpkinbots :This server is rather new
+<<1414904067.85	:tmi.twitch.tv 004 twitchplayspumpkinbots :-
+<<1414904067.85	:tmi.twitch.tv 375 twitchplayspumpkinbots :-
+<<1414904067.85	:tmi.twitch.tv 372 twitchplayspumpkinbots :You are in a maze of twisty passages, all alike.
+<<1414904067.85	:tmi.twitch.tv 376 twitchplayspumpkinbots :>
+<<1414904068.08	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN twitchplayspumpkinbots
+<<1414904068.08	:twitchplayspumpkinbots.tmi.twitch.tv 353 twitchplayspumpkinbots = twitchplayspumpkinbots :twitchplayspumpkinbots
+<<1414904068.08	:twitchplayspumpkinbots.tmi.twitch.tv 366 twitchplayspumpkinbots twitchplayspumpkinbots :End of /NAMES list
+<<1414904068.08	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG twitchplayspumpkinbots :USERCOLOR twitchplayspumpkinbots #008000
+<<1414904068.09	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG twitchplayspumpkinbots :HISTORYEND twitchplayspumpkinbots
+>>1414904187.67	PING irc.twitch.tv
+<<1414904187.75	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414904307.68	PING irc.twitch.tv
+<<1414904307.76	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+<<1414904308.48	PING :tmi.twitch.tv
+>>1414904308.48	PONG tmi.twitch.tv
+>>1414904427.69	PING irc.twitch.tv
+<<1414904427.77	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414904547.7	PING irc.twitch.tv
+<<1414904547.78	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+<<1414904560.88	PING :tmi.twitch.tv
+>>1414904560.88	PONG tmi.twitch.tv
+>>1414904667.71	PING irc.twitch.tv
+<<1414904667.79	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414904711.82	QUIT :KeyboardInterrupt
+>>1414904734.04	CAP LS
+>>1414904734.04	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414904734.04	NICK Reapthenightmare
+>>1414904734.04	USER willie +iw Reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414904734.13	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414904734.22	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414904734.23	MODE  Reapthenightmare +B
+>>1414904734.24	JOIN twitchplayspumpkinbots
+<<1414904734.24	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414904734.24	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414904734.24	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414904734.24	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414904734.24	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414904734.24	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414904734.53	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN twitchplayspumpkinbots
+<<1414904734.53	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = twitchplayspumpkinbots :reapthenightmare
+<<1414904734.53	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare twitchplayspumpkinbots :End of /NAMES list
+<<1414904734.53	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414904734.53	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414904854.05	PING irc.twitch.tv
+<<1414904854.14	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414904974.07	PING irc.twitch.tv
+<<1414904974.15	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+<<1414904985.72	PING :tmi.twitch.tv
+>>1414904985.73	PONG tmi.twitch.tv
+>>1414905094.08	PING irc.twitch.tv
+<<1414905094.16	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414905214.09	PING irc.twitch.tv
+<<1414905214.18	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+<<1414905263.57	PING :tmi.twitch.tv
+>>1414905263.57	PONG tmi.twitch.tv
+>>1414905334.1	PING irc.twitch.tv
+<<1414905334.18	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414905454.11	PING irc.twitch.tv
+<<1414905454.2	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414905455.86	QUIT :KeyboardInterrupt
+>>1414905458.25	CAP LS
+>>1414905458.25	PASS 
+>>1414905458.25	NICK pumpkinbots
+>>1414905458.25	USER willie +iw pumpkinbots :Willie Embosbot, http://willie.dftba.net
+<<1414905458.28	:morgan.freenode.net NOTICE * :*** Looking up your hostname...
+<<1414905458.31	:morgan.freenode.net NOTICE * :*** Checking Ident
+<<1414905458.31	:morgan.freenode.net NOTICE * :*** Found your hostname
+<<1414905468.09	:morgan.freenode.net NOTICE * :*** No Ident response
+<<1414905468.12	:morgan.freenode.net CAP * LS :account-notify extended-join identify-msg multi-prefix sasl
+>>1414905468.12	CAP REQ multi-prefix
+>>1414905468.12	CAP END
+<<1414905468.12	:morgan.freenode.net 461 * PASS :Not enough parameters
+<<1414905468.2	:morgan.freenode.net CAP pumpkinbots ACK :multi-prefix 
+<<1414905468.75	:morgan.freenode.net 001 pumpkinbots :Welcome to the freenode Internet Relay Chat Network pumpkinbots
+>>1414905468.75	MODE  pumpkinbots +B
+>>1414905468.75	JOIN #1337inside
+<<1414905468.77	:morgan.freenode.net 002 pumpkinbots :Your host is morgan.freenode.net[64.32.24.176/6667], running version ircd-seven-1.1.3
+<<1414905468.77	:morgan.freenode.net 003 pumpkinbots :This server was created Thu Jul 31 2014 at 17:07:15 UTC
+<<1414905468.77	:morgan.freenode.net 004 pumpkinbots morgan.freenode.net ircd-seven-1.1.3 DOQRSZaghilopswz CFILMPQSbcefgijklmnopqrstvz bkloveqjfI
+<<1414905468.77	:morgan.freenode.net 005 pumpkinbots CHANTYPES=# EXCEPTS INVEX CHANMODES=eIbq,k,flj,CFLMPQScgimnprstz CHANLIMIT=#:120 PREFIX=(ov)@+ MAXLIST=bqeI:100 MODES=4 NETWORK=freenode KNOCK STATUSMSG=@+ CALLERID=g :are supported by this server
+<<1414905468.77	:morgan.freenode.net 005 pumpkinbots CASEMAPPING=rfc1459 CHARSET=ascii NICKLEN=16 CHANNELLEN=50 TOPICLEN=390 ETRACE CPRIVMSG CNOTICE DEAF=D MONITOR=100 FNC TARGMAX=NAMES:1,LIST:1,KICK:1,WHOIS:1,PRIVMSG:4,NOTICE:4,ACCEPT:,MONITOR: :are supported by this server
+<<1414905468.77	:morgan.freenode.net 005 pumpkinbots EXTBAN=$,ajrxz WHOX CLIENTVER=3.0 SAFELIST ELIST=CTU :are supported by this server
+<<1414905468.77	:morgan.freenode.net 251 pumpkinbots :There are 172 users and 81460 invisible on 30 servers
+<<1414905468.77	:morgan.freenode.net 252 pumpkinbots 29 :IRC Operators online
+<<1414905468.77	:morgan.freenode.net 253 pumpkinbots 4 :unknown connection(s)
+<<1414905468.77	:morgan.freenode.net 254 pumpkinbots 57067 :channels formed
+<<1414905468.77	:morgan.freenode.net 255 pumpkinbots :I have 5843 clients and 1 servers
+<<1414905468.77	:morgan.freenode.net 265 pumpkinbots 5843 8152 :Current local users 5843, max 8152
+<<1414905468.78	:morgan.freenode.net 266 pumpkinbots 81632 98073 :Current global users 81632, max 98073
+<<1414905468.78	:morgan.freenode.net 250 pumpkinbots :Highest connection count: 8154 (8152 clients) (938097 connections received)
+<<1414905468.78	:morgan.freenode.net 375 pumpkinbots :- morgan.freenode.net Message of the Day - 
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- Welcome to morgan.freenode.net in Chicago, IL, USA! Thank
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- you to psyprus for sponsoring this server!
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- MORGAN, RICHARD K. (1965-) is an English science fiction
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- author. Morgan's books are generally set in a dystopian world.
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- His breakout novel Altered Carbon won the Philip K. Dick Award,
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- and he has written many successful and amazing works to follow.
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- His more recent writings explore the theme of autonomy
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- in science fiction and escapism in fantasy.
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- Welcome to freenode - supporting the free and open source
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- software communities since 1998.
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- **************************************************************
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :-                       SECURITY ALERT
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.78	:morgan.freenode.net 372 pumpkinbots :- Over the weekend of 13th-14th September freenode staff noticed
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- some compromised binaries present on a number of servers. 
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- The servers in question have been removed from the network and
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- shut down.  However, it's possible that network traffic  -
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- including SSL traffic - has been sniffed and passwords
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- exposed.
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- We therefore recommend that all users change their nickserv 
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- password(s) to a new value which is not shared with any
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- other service.
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- You can do this with /msg nickserv set password newpasshere
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.79	:morgan.freenode.ne
+<<1414905468.79	t 372 pumpkinbots :- Please note that investigation is ongoing to discover the root
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- cause of the attack, and until this investigation is complete
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- we cannot be 100% certain that all traces of the compromises 
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- have been removed. We may have to ask you to change your  
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- passwords again after analysis has completed.
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- Further details will appear on https://blog.freenode.net/
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.79	:morgan.freenode.net 372 pumpkinbots :- **************************************************************
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- By connecting to freenode you indicate that you have read and
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- accept our policies as set out on http://www.freenode.net
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- freenode runs an open proxy scanner. Please join #freenode for
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- any network-related questions or queries, where a number of
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- volunteer staff and helpful users will be happy to assist you.
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- You can meet us at FOSSCON (http://www.fosscon.org) where we get
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- together with like-minded FOSS enthusiasts for talks and
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- real-life collaboration.
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- We would like to thank Private Internet Access
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- (https://www.privateinternetaccess.com/) and the other
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- organisations that help keep freenode and our other projects
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- running for their sustained support.
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- In particular we would like to thank the sponsor
+<<1414905468.8	:morgan.freenode.net 372 pumpkinbots :- of this server, details of which can be found above.
+<<1414905468.81	:morgan.freenode.net 372 pumpkinbots :-  
+<<1414905468.81	:morgan.freenode.net 376 pumpkinbots :End of /MOTD command.
+<<1414905468.81	:pumpkinbots MODE pumpkinbots :+i
+<<1414905474.74	:morgan.freenode.net 501 pumpkinbots :Unknown MODE flag
+<<1414905474.77	:pumpkinbots!~willie@nat-130-132-173-173.central.yale.edu JOIN #1337inside
+<<1414905474.78	:morgan.freenode.net 353 pumpkinbots @ #1337inside :pumpkinbots woobledot @acarrillo2
+<<1414905474.78	:morgan.freenode.net 366 pumpkinbots #1337inside :End of /NAMES list.
+<<1414905480.4	:acarrillo2!~Acarrillo@nat-130-132-173-55.central.yale.edu PRIVMSG #1337inside :.helloworld
+>>1414905480.41	PRIVMSG #1337inside :Hello, world!
+>>1414905578.27	PING chat.freenode.net
+<<1414905578.3	:morgan.freenode.net PONG morgan.freenode.net :chat.freenode.net
+<<1414905610.71	:acarrillo2!~Acarrillo@nat-130-132-173-55.central.yale.edu QUIT :Client Quit
+>>1414905611.41	QUIT :KeyboardInterrupt
+>>1414905614.08	CAP LS
+>>1414905614.08	PASS oauth:fmg3v2nxg2za62ez308kzp8xrygx34z
+>>1414905614.08	NICK twitchplayspumpkinbots
+>>1414905614.08	USER willie +iw twitchplayspumpkinbots :Willie Embosbot, http://willie.dftba.net
+<<1414905614.17	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414905614.27	:tmi.twitch.tv 001 twitchplayspumpkinbots :Welcome, GLHF!
+>>1414905614.29	MODE  twitchplayspumpkinbots +B
+>>1414905614.29	JOIN #twitchplayspumpkinbots
+<<1414905614.29	:tmi.twitch.tv 002 twitchplayspumpkinbots :Your host is tmi.twitch.tv
+<<1414905614.29	:tmi.twitch.tv 003 twitchplayspumpkinbots :This server is rather new
+<<1414905614.29	:tmi.twitch.tv 004 twitchplayspumpkinbots :-
+<<1414905614.29	:tmi.twitch.tv 375 twitchplayspumpkinbots :-
+<<1414905614.29	:tmi.twitch.tv 372 twitchplayspumpkinbots :You are in a maze of twisty passages, all alike.
+<<1414905614.29	:tmi.twitch.tv 376 twitchplayspumpkinbots :>
+<<1414905614.55	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414905614.55	:twitchplayspumpkinbots.tmi.twitch.tv 353 twitchplayspumpkinbots = #twitchplayspumpkinbots :twitchplayspumpkinbots
+<<1414905614.55	:twitchplayspumpkinbots.tmi.twitch.tv 366 twitchplayspumpkinbots #twitchplayspumpkinbots :End of /NAMES list
+<<1414905614.55	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG twitchplayspumpkinbots :USERCOLOR twitchplayspumpkinbots #FF0000
+<<1414905614.56	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG twitchplayspumpkinbots :HISTORYEND twitchplayspumpkinbots
+<<1414905641.12	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :asdf
+<<1414905652.22	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414905652.22	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414905652.22	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+<<1414905652.22	:jtv MODE #twitchplayspumpkinbots +o moobot
+<<1414905652.83	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :hello
+>>1414905734.09	PING irc.twitch.tv
+<<1414905734.18	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414905854.1	PING irc.twitch.tv
+<<1414905854.19	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+<<1414905871.25	PING :tmi.twitch.tv
+>>1414905871.25	PONG tmi.twitch.tv
+<<1414905891.95	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :asdf
+<<1414905895.26	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :left
+<<1414905914.65	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :q34h
+>>1414905972.48	QUIT :KeyboardInterrupt
+>>1414905975.48	CAP LS
+>>1414905975.48	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414905975.48	NICK reapthenightmare
+>>1414905975.48	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414905975.55	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414905975.64	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414905975.66	MODE  reapthenightmare +B
+>>1414905975.66	JOIN #twitchplayspumpkinbots
+<<1414905975.66	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414905975.66	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414905975.66	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414905975.66	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414905975.66	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414905975.66	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414905975.89	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414905975.89	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414905975.9	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414905975.9	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414905975.9	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+<<1414905979.1	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414905979.1	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414905979.1	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414905979.1	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+<<1414905979.1	:jtv MODE #twitchplayspumpkinbots +o moobot
+<<1414906037.51	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv PART #twitchplayspumpkinbots
+<<1414906037.51	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PART #twitchplayspumpkinbots
+<<1414906037.51	:moobot!moobot@moobot.tmi.twitch.tv PART #twitchplayspumpkinbots
+<<1414906037.51	:jtv MODE #twitchplayspumpkinbots -o twitchplayspumpkinbots
+<<1414906037.52	:jtv MODE #twitchplayspumpkinbots -o moobot
+<<1414906046.87	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :twitchy
+<<1414906106.92	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906106.92	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906106.92	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906106.92	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+<<1414906106.92	:jtv MODE #twitchplayspumpkinbots +o moobot
+>>1414906215.49	PING irc.twitch.tv
+<<1414906215.57	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+<<1414906227.51	PING :tmi.twitch.tv
+>>1414906227.51	PONG tmi.twitch.tv
+>>1414906335.51	PING irc.twitch.tv
+<<1414906335.59	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414906455.52	PING irc.twitch.tv
+<<1414906455.6	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+<<1414906494.0	PING :tmi.twitch.tv
+>>1414906494.0	PONG tmi.twitch.tv
+>>1414906501.44	QUIT :KeyboardInterrupt
+>>1414906503.38	CAP LS
+>>1414906503.38	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414906503.38	NICK reapthenightmare
+>>1414906503.38	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414906503.47	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414906503.56	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414906503.58	MODE  reapthenightmare +B
+>>1414906503.58	JOIN #twitchplayspumpkinbots
+<<1414906503.58	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414906503.58	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414906503.58	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414906503.59	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414906503.59	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414906503.59	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414906503.84	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906503.84	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414906503.84	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414906503.84	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+>>1414906503.85	PRIVMSG jtv :Hello, world!
+<<1414906503.85	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414906504.55	PRIVMSG jtv :Hello, world!
+<<1414906522.36	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906522.36	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906522.36	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+<<1414906522.36	:jtv MODE #twitchplayspumpkinbots +o moobot
+<<1414906555.7	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :forward
+>>1414906555.7	PRIVMSG #twitchplayspumpkinbots :Hello, world!
+<<1414906582.29	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :sdlkfjslj
+>>1414906582.3	PRIVMSG #twitchplayspumpkinbots :Hello, world!
+<<1414906582.42	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :Your message was not sent because it is identical to the previous one you sent, less than 30 seconds ago.
+>>1414906582.42	PRIVMSG jtv :Hello, world!
+<<1414906586.52	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+>>1414906683.4	PING irc.twitch.tv
+<<1414906683.49	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414906714.52	QUIT :KeyboardInterrupt
+>>1414906716.25	CAP LS
+>>1414906716.25	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414906716.25	NICK reapthenightmare
+>>1414906716.25	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414906716.33	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414906716.42	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414906716.44	MODE  reapthenightmare +B
+>>1414906716.44	JOIN #twitchplayspumpkinbots
+<<1414906716.44	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414906716.44	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414906716.44	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414906716.44	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414906716.44	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414906716.44	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414906716.77	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906716.77	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414906716.77	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414906716.77	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414906716.77	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414906716.78	PRIVMSG jtv :AttributeError: 'builtin_function_or_method' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+>>1414906718.94	PRIVMSG jtv :AttributeError: 'builtin_function_or_method' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+<<1414906724.31	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906724.31	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906724.32	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906724.32	:jtv MODE #twitchplayspumpkinbots +o moobot
+<<1414906724.32	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+>>1414906747.4	QUIT :KeyboardInterrupt
+>>1414906749.22	CAP LS
+>>1414906749.22	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414906749.22	NICK reapthenightmare
+>>1414906749.22	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414906749.3	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414906749.38	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414906749.38	MODE  reapthenightmare +B
+>>1414906749.38	JOIN #twitchplayspumpkinbots
+<<1414906749.4	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414906749.4	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414906749.4	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414906749.4	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414906749.4	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414906749.4	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414906749.6	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906749.6	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414906749.6	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414906749.6	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414906749.61	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414906749.61	PRIVMSG jtv :AttributeError: 'builtin_function_or_method' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+>>1414906751.77	PRIVMSG jtv :AttributeError: 'builtin_function_or_method' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+>>1414906766.84	QUIT :KeyboardInterrupt
+>>1414906768.47	CAP LS
+>>1414906768.47	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414906768.47	NICK reapthenightmare
+>>1414906768.47	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414906768.55	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414906768.63	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414906768.65	MODE  reapthenightmare +B
+>>1414906768.65	JOIN #twitchplayspumpkinbots
+<<1414906768.65	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414906768.65	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414906768.65	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414906768.65	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414906768.65	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414906768.65	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414906768.87	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906768.88	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414906768.88	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414906768.88	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+>>1414906768.88	PRIVMSG jtv :USERCOLOR reapthenightmare #DAA520
+<<1414906768.88	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414906769.58	PRIVMSG jtv :HISTORYEND twitchplayspumpkinbots
+<<1414906805.47	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :forward
+>>1414906805.48	PRIVMSG #twitchplayspumpkinbots :forward
+<<1414906808.97	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906808.97	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906808.97	:jtv MODE #twitchplayspumpkinbots +o moobot
+>>1414906842.35	QUIT :KeyboardInterrupt
+>>1414906847.59	CAP LS
+>>1414906847.59	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414906847.59	NICK reapthenightmare
+>>1414906847.59	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414906847.68	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414906847.77	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414906847.77	MODE  reapthenightmare +B
+>>1414906847.77	JOIN #twitchplayspumpkinbots
+<<1414906847.78	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414906847.79	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414906847.79	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414906847.79	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414906847.79	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414906847.79	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414906848.01	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906848.01	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414906848.01	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414906848.01	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414906848.01	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414906848.02	PRIVMSG jtv :AttributeError: 'bool' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+>>1414906849.86	PRIVMSG jtv :AttributeError: 'bool' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+>>1414906878.58	QUIT :KeyboardInterrupt
+>>1414906949.1	CAP LS
+>>1414906949.1	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414906949.1	NICK reapthenightmare
+>>1414906949.1	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414906949.18	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414906949.27	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414906949.27	MODE  reapthenightmare +B
+>>1414906949.27	JOIN #twitchplayspumpkinbots
+<<1414906949.29	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414906949.29	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414906949.29	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414906949.29	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414906949.29	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414906949.29	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414906949.5	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906949.51	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414906949.51	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414906949.51	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414906949.51	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414906949.51	PRIVMSG jtv :NameError: global name 'rigger' is not defined (file "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld)
+>>1414906951.17	QUIT :KeyboardInterrupt
+>>1414906955.9	CAP LS
+>>1414906955.9	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414906955.9	NICK reapthenightmare
+>>1414906955.9	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414906955.98	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414906956.06	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414906956.07	MODE  reapthenightmare +B
+>>1414906956.07	JOIN #twitchplayspumpkinbots
+<<1414906956.08	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414906956.08	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414906956.08	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414906956.08	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414906956.08	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414906956.08	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414906956.29	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906956.29	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414906956.29	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414906956.29	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414906956.29	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414906956.3	PRIVMSG jtv :AttributeError: 'int' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+>>1414906958.09	QUIT :KeyboardInterrupt
+>>1414906967.42	CAP LS
+>>1414906967.42	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414906967.42	NICK reapthenightmare
+>>1414906967.42	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414906967.5	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414906967.59	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414906967.6	MODE  reapthenightmare +B
+>>1414906967.6	JOIN #twitchplayspumpkinbots
+<<1414906967.61	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414906967.61	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414906967.61	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414906967.61	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414906967.61	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414906967.62	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414906967.83	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906967.83	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414906967.83	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414906967.83	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414906967.83	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+<<1414906979.73	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906979.73	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906979.73	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414906979.73	:jtv MODE #twitchplayspumpkinbots +o moobot
+<<1414906979.73	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+<<1414907009.99	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :forward
+<<1414907024.34	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :back
+<<1414907026.93	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :asdf
+>>1414907054.41	QUIT :KeyboardInterrupt
+>>1414907117.5	CAP LS
+>>1414907117.5	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414907117.5	NICK reapthenightmare
+>>1414907117.5	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414907117.58	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414907117.74	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414907117.74	MODE  reapthenightmare +B
+>>1414907117.74	JOIN #twitchplayspumpkinbots
+<<1414907117.76	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414907117.76	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414907117.76	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414907117.76	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414907117.76	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414907117.76	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414907117.98	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907117.99	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414907117.99	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414907117.99	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414907117.99	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+<<1414907146.09	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :forward
+<<1414907157.33	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907157.33	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907157.33	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907157.33	:jtv MODE #twitchplayspumpkinbots +o moobot
+<<1414907157.33	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+<<1414907160.64	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :asdf
+>>1414907176.23	QUIT :KeyboardInterrupt
+>>1414907179.7	CAP LS
+>>1414907179.7	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414907179.7	NICK reapthenightmare
+>>1414907179.7	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414907179.78	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414907179.87	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414907179.89	MODE  reapthenightmare +B
+>>1414907179.89	JOIN #twitchplayspumpkinbots
+<<1414907179.89	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414907179.89	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414907179.89	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414907179.89	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414907179.89	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414907179.89	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414907180.14	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907180.14	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414907180.14	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414907180.15	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414907180.15	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+<<1414907221.18	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :hi
+>>1414907226.57	QUIT :KeyboardInterrupt
+>>1414907231.33	CAP LS
+>>1414907231.33	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414907231.33	NICK reapthenightmare
+>>1414907231.33	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414907231.41	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414907231.5	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414907231.5	MODE  reapthenightmare +B
+>>1414907231.5	JOIN #twitchplayspumpkinbots
+<<1414907231.51	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414907231.51	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414907231.51	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414907231.51	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414907231.51	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414907231.51	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414907231.74	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907231.74	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414907231.74	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414907231.74	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+<<1414907231.74	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+<<1414907254.84	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907254.85	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907254.85	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907254.85	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+<<1414907254.85	:jtv MODE #twitchplayspumpkinbots +o moobot
+>>1414907257.66	QUIT :KeyboardInterrupt
+>>1414907259.64	CAP LS
+>>1414907259.64	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414907259.64	NICK reapthenightmare
+>>1414907259.64	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414907259.73	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414907259.81	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414907259.83	MODE  reapthenightmare +B
+>>1414907259.83	JOIN #twitchplayspumpkinbots
+<<1414907259.83	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414907259.83	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414907259.84	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414907259.84	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414907259.84	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414907259.84	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414907260.08	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907260.08	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414907260.08	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414907260.08	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+>>1414907260.08	PRIVMSG jtv :utf-8
+<<1414907260.09	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414907260.79	PRIVMSG jtv :utf-8
+<<1414907274.31	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :hi
+>>1414907274.31	PRIVMSG #twitchplayspumpkinbots :utf-8
+<<1414907276.89	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907276.9	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907276.9	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+<<1414907276.9	:jtv MODE #twitchplayspumpkinbots +o moobot
+<<1414907335.08	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+>>1414907412.07	QUIT :KeyboardInterrupt
+>>1414907413.68	CAP LS
+>>1414907413.68	PASS oauth:s71ip1b4hdb4783v2yjgubjmguzkd2
+>>1414907413.68	NICK reapthenightmare
+>>1414907413.68	USER willie +iw reapthenightmare :Willie Embosbot, http://willie.dftba.net
+<<1414907413.76	:tmi.twitch.tv 421 you CAP :Unknown command
+<<1414907413.85	:tmi.twitch.tv 001 reapthenightmare :Welcome, GLHF!
+>>1414907413.87	MODE  reapthenightmare +B
+>>1414907413.87	JOIN #twitchplayspumpkinbots
+<<1414907413.87	:tmi.twitch.tv 002 reapthenightmare :Your host is tmi.twitch.tv
+<<1414907413.87	:tmi.twitch.tv 003 reapthenightmare :This server is rather new
+<<1414907413.87	:tmi.twitch.tv 004 reapthenightmare :-
+<<1414907413.87	:tmi.twitch.tv 375 reapthenightmare :-
+<<1414907413.87	:tmi.twitch.tv 372 reapthenightmare :You are in a maze of twisty passages, all alike.
+<<1414907413.87	:tmi.twitch.tv 376 reapthenightmare :>
+<<1414907414.11	:reapthenightmare!reapthenightmare@reapthenightmare.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907414.11	:reapthenightmare.tmi.twitch.tv 353 reapthenightmare = #twitchplayspumpkinbots :reapthenightmare
+<<1414907414.11	:reapthenightmare.tmi.twitch.tv 366 reapthenightmare #twitchplayspumpkinbots :End of /NAMES list
+<<1414907414.11	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :USERCOLOR reapthenightmare #DAA520
+>>1414907414.12	PRIVMSG jtv :USERCOLOR REAPTHENIGHTMARE #DAA520
+<<1414907414.12	:jtv!jtv@jtv.tmi.twitch.tv PRIVMSG reapthenightmare :HISTORYEND twitchplayspumpkinbots
+>>1414907414.82	PRIVMSG jtv :HISTORYEND TWITCHPLAYSPUMPKINBOTS
+<<1414907421.09	:moobot!moobot@moobot.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907421.09	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907421.1	:acarrillo2!acarrillo2@acarrillo2.tmi.twitch.tv JOIN #twitchplayspumpkinbots
+<<1414907421.1	:jtv MODE #twitchplayspumpkinbots +o moobot
+<<1414907421.1	:jtv MODE #twitchplayspumpkinbots +o twitchplayspumpkinbots
+<<1414907423.68	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :wowoowow
+>>1414907423.69	PRIVMSG #twitchplayspumpkinbots :WOWOOWOW
+>>1414907533.69	PING irc.twitch.tv
+<<1414907533.77	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+<<1414907641.05	:twitchplayspumpkinbots!twitchplayspumpkinbots@twitchplayspumpkinbots.tmi.twitch.tv PRIVMSG #twitchplayspumpkinbots :whee
+>>1414907641.05	PRIVMSG #twitchplayspumpkinbots :WHEE
+<<1414907674.77	PING :tmi.twitch.tv
+>>1414907674.77	PONG tmi.twitch.tv
+>>1414907773.7	PING irc.twitch.tv
+<<1414907773.79	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+>>1414907893.71	PING irc.twitch.tv
+<<1414907893.79	:tmi.twitch.tv PONG tmi.twitch.tv :irc.twitch.tv
+<<1414907933.52	PING :tmi.twitch.tv
+>>1414907933.52	PONG tmi.twitch.tv

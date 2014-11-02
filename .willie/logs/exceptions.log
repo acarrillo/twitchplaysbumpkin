@@ -1,0 +1,156 @@
+Signature: AttributeError: 'builtin_function_or_method' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+from jtv at 2014-11-02 01:38:36.774871:
+Message was: <jtv> USERCOLOR
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(trigger.bytes.upper)
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 582, in say
+    self.bot.msg(self.origin.sender, string, max_messages)
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg
+    text = encoded_text.decode('utf-8')
+AttributeError: 'builtin_function_or_method' object has no attribute 'decode'
+Signature: AttributeError: 'builtin_function_or_method' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+----------------------------------------
+
+from jtv at 2014-11-02 01:38:36.775791:
+Message was: <jtv> HISTORYEND
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(trigger.bytes.upper)
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 582, in say
+    self.bot.msg(self.origin.sender, string, max_messages)
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg
+    text = encoded_text.decode('utf-8')
+AttributeError: 'builtin_function_or_method' object has no attribute 'decode'
+----------------------------------------
+
+Signature: AttributeError: 'builtin_function_or_method' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+from jtv at 2014-11-02 01:39:09.609241:
+Message was: <jtv> USERCOLOR
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(str(trigger.bytes).upper)
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 582, in say
+    self.bot.msg(self.origin.sender, string, max_messages)
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg
+    text = encoded_text.decode('utf-8')
+AttributeError: 'builtin_function_or_method' object has no attribute 'decode'
+----------------------------------------
+
+Signature: AttributeError: 'builtin_function_or_method' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+from jtv at 2014-11-02 01:39:09.612774:
+Message was: <jtv> HISTORYEND
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(str(trigger.bytes).upper)
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 582, in say
+    self.bot.msg(self.origin.sender, string, max_messages)
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg
+    text = encoded_text.decode('utf-8')
+AttributeError: 'builtin_function_or_method' object has no attribute 'decode'
+----------------------------------------
+
+Signature: AttributeError: 'bool' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+from jtv at 2014-11-02 01:40:48.016069:
+Message was: <jtv> USERCOLOR
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(str(trigger.bytes) == 'forward')
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 582, in say
+    self.bot.msg(self.origin.sender, string, max_messages)
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg
+    text = encoded_text.decode('utf-8')
+AttributeError: 'bool' object has no attribute 'decode'
+----------------------------------------
+
+Signature: AttributeError: 'bool' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+from jtv at 2014-11-02 01:40:48.018766:
+Message was: <jtv> HISTORYEND
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(str(trigger.bytes) == 'forward')
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 582, in say
+    self.bot.msg(self.origin.sender, string, max_messages)
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg
+    text = encoded_text.decode('utf-8')
+AttributeError: 'bool' object has no attribute 'decode'
+----------------------------------------
+
+Signature: NameError: global name 'rigger' is not defined (file "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld)
+from jtv at 2014-11-02 01:42:29.513010:
+Message was: <jtv> USERCOLOR
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(len(rigger.bytes))
+NameError: global name 'rigger' is not defined
+----------------------------------------
+
+Signature: NameError: global name 'rigger' is not defined (file "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld)
+from jtv at 2014-11-02 01:42:29.515481:
+Message was: <jtv> HISTORYEND
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(len(rigger.bytes))
+NameError: global name 'rigger' is not defined
+----------------------------------------
+
+Signature: AttributeError: 'int' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+from jtv at 2014-11-02 01:42:36.295070:
+Message was: <jtv> USERCOLOR
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(len(trigger.bytes))
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 582, in say
+    self.bot.msg(self.origin.sender, string, max_messages)
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg
+    text = encoded_text.decode('utf-8')
+AttributeError: 'int' object has no attribute 'decode'
+----------------------------------------
+
+Signature: AttributeError: 'int' object has no attribute 'decode' (file "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg)
+from jtv at 2014-11-02 01:42:36.297618:
+Message was: <jtv> HISTORYEND
+Traceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 741, in call
+    exit_code = func(willie, trigger)
+  File "/Users/ellensu/.willie/modules/helloworld.py", line 5, in helloworld
+    bot.say(len(trigger.bytes))
+  File "/Library/Python/2.7/site-packages/willie/bot.py", line 582, in say
+    self.bot.msg(self.origin.sender, string, max_messages)
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 466, in msg
+    text = encoded_text.decode('utf-8')
+AttributeError: 'int' object has no attribute 'decode'
+----------------------------------------
+
+Critical exception in coreTraceback (most recent call last):
+  File "/Library/Python/2.7/site-packages/willie/__init__.py", line 54, in run
+    p.run(config.core.host, int(config.core.port))
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 223, in run
+    self.initiate_connect(host, port)
+  File "/Library/Python/2.7/site-packages/willie/irc.py", line 242, in initiate_connect
+    asyncore.loop()
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/asyncore.py", line 216, in loop
+    poll_fun(timeout, map)
+  File "/System/Library/Frameworks/Python.framework/Versions/2.7/lib/python2.7/asyncore.py", line 145, in poll
+    r, w, e = select.select(r, w, e, timeout)
+error: (9, 'Bad file descriptor')
+----------------------------------------
+
