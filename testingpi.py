@@ -116,28 +116,14 @@ def vip1counter():
         GPIO.output(array[3], False)        
 
 while True:
-    time.sleep(1)
+     
     vip1forward()
-    gat1reverse()
-    frog1forward()
-    time.sleep(1)
-    
-    vip1clock()
-    gat1counter()
-    time.sleep(1)
-    
-    vip1counter()
-    gat1clock()
-    time.sleep(1)
-    
-    vip1reverse()
     gat1forward()
     time.sleep(1)
-    while True:
-        vip1stop()
-        gat1stop()
-        frog1stop()
-    
+    vip1stop()
+    gat11stop()
+    time.sleep(1)
+
 
     
 
