@@ -1,3 +1,4 @@
+import willie
 import time
 import sys
 import select
@@ -37,9 +38,6 @@ GPIO.output(17, False)
 array = [11, 7, 8, 25]
 array2 =[27, 22, 10, 9]
 array3 =[2, 3, 4, 17]
-
-
-
 def vip1forward():
         GPIO.output(array[1], True)
         GPIO.output(array[0], False)
@@ -115,32 +113,25 @@ def vip1counter():
         GPIO.output(array[2], True)
         GPIO.output(array[3], False)        
 
-while True:
-    time.sleep(1)
-    vip1forward()
-    gat1reverse()
-    frog1forward()
-    time.sleep(1)
-    
-    vip1clock()
-    gat1counter()
-    time.sleep(1)
-    
-    vip1counter()
-    gat1clock()
-    time.sleep(1)
-    
-    vip1reverse()
-    gat1forward()
-    time.sleep(1)
-    while True:
+
+@willie.module.rule('([^\s]+)')
+def helloworld(bot, trigger):
+    cmd = trigger.bytes.decode(encoding='UTF-8')
+    bot.say("Executing " + cmd)
+
+    if cmd == "forward":
+        vip1forward()
+        time.sleep(1)
         vip1stop()
-        gat1stop()
-        frog1stop()
-    
-
-    
-
-
-
-
+    elif cmd == "reverse":
+        vip1reverse()
+        time.sleep(1)
+        vip1stop()
+    elif cmd == "clock":
+        vip1clock()
+        time.sleep(1)
+        vip1stop()
+    elif cmd == "counter":
+        vip1counter()
+        time.sleep(1)
+        vip1stop()
