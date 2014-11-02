@@ -41,7 +41,7 @@ array3 =[2, 3, 4, 17]
 
 vip1_is_turning = False
 vip1_is_straight = False
-gat1_is_moving = False
+gat1_is_turning = False
 gat1_is_straight = False
 vip1_str8_time = 0
 vip2_str8_time = 0
